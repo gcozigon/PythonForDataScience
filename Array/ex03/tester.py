@@ -1,2 +1,4 @@
 from load_image import ft_load
-print(ft_load("landscape.jpg"))
+from zoom import ft_zoom
+
+ft_zoom()
